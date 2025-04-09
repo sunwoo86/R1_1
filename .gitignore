@@ -1,0 +1,6 @@
+### DB INFO ###
+dbinfo.py
+
+### Cache ###
+package/__pycache__/
+info/__pycache__/
